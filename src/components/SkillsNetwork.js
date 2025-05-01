@@ -32,9 +32,6 @@ const SkillsGrid = () => {
               <div className="text-3xl text-[#58DFC3] group-hover:text-[#00F0FF] transition-colors duration-300">
                 {skill.icon}
               </div>
-              <div className="text-xs font-mono px-2 py-1 bg-[#112240] rounded text-[#00F0FF] uppercase">
-                {skill.category}
-              </div>
             </div>
             
             <h3 className="text-lg font-rajdhani font-bold mb-2">{skill.name}</h3>

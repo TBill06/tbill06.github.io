@@ -4,7 +4,15 @@ const projects_data = [
         name: 'WebApp for LLM Study',
         description: "Developed a full-stack web platform to study various form functions of user interactions with large language models (LLMs) and generative AI, focusing on user experience.",
         points: ["Leveraged OpenAI’s API for text and image generation, AWS S3 and DynamoDB for real-time survey data collection.", "Provided a valuable survey application that streamlines the process for researchers to gather data for HCI studies on scale."],
-        stack: ['React', 'Typescript', 'AWS S3', 'AWS DynamoDB', 'OpenAI API', 'Express', 'Render', 'Vercel', 'Tailwind', 'Framer Motion'],
+        stack: ['React ', 'Typescript ', 'AWS S3 ', 'AWS DynamoDB ', 'OpenAI API ', 'Express ', 'Render ', 'Vercel ', 'Tailwind ', 'Framer Motion '],
+        links: 'https://github.com/TBill06'
+    },
+    {
+        kind: 'Featured Project',
+        name: 'FlirtIQ: Pickup Lines Rater',
+        description: "Built a web app that rates pickup lines using six NLP systems ranging from simple Bag-of-Words to advanced GPT models.",
+        points: ["Benchmarked sentiment systems across weak, mid, and strong NLP methods, showcasing progressive improvements in contextual understanding and model accuracy.", "Designed to study sentiment analysis in contextually limited text; demonstrated how model complexity affects interpretability, runtime, and sentiment quality."],
+        stack: ['Python ', 'Flask ', 'Transformers (HuggingFace) ', 'Scikit-learn ', 'NLTK ', 'OpenAI GPT ', 'Streamlit '],
         links: 'https://github.com/TBill06'
     },
     {

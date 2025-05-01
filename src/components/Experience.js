@@ -7,7 +7,7 @@ const Experience = () => {
         {
             title: "Undergraduate Research Developer",
             company: "Memorial University - HCI Lab",
-            date: "2022 - Present",
+            date: "Jan 2024 - Dec 2024",
             duties: [
                 "Coauthored a paper \"Comparing Pinch and Point Poses for Stroke Drawing in Virtual Reality\" with Dr. Jay Henderson.",
                 "Built and designed an Unity VR app with ECS architecture for a robust game-like experience to allow users drawing on multiple surfaces with various hand poses.",
@@ -18,7 +18,7 @@ const Experience = () => {
         {
             title: "Front End Developer Intern",
             company: "Carnegie Learning - Zorbits Math",
-            date: "2021 - 2022",
+            date: "Apr 2023 - Dec 2023",
             duties: [
                 "Developing and maintaining CL dashboard, contributing to 10 projects focused on new features implementation and internal testing tools. Also a lot of bug-fixing, code refactoring to ensure smooth re branding of the product.",
                 "Designed and implemented reusable Angular components, services, and modules, enhancing code scalability and maintainability by 25% in key feature like student performance reports, teacher resources, district and school profiles.",
@@ -29,7 +29,7 @@ const Experience = () => {
         {
             title: "Full Stack Developer",
             company: "DIAG Lab - Memorial University",
-            date: "2021",
+            date: "Apr 2022 - Dec 2022",
             duties: [
                 "Worked in a team developing issue/ticket management system for a machine learning lab detecting medical images."
             ],
@@ -38,7 +38,7 @@ const Experience = () => {
         {
             title: "Learning Design and Development Assistant",
             company: "CITL - Memorial University",
-            date: "2020 - 2021",
+            date: "Oct 2021 - Mar 2022",
             duties: [
                 "Developed web pages for nursing courses which were taught online at MUN Nursing school",
                 "Wrote technical reports for support page release notes.",
