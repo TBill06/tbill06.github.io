@@ -4,7 +4,7 @@ import About from './components/About.js'
 import Experience from './components/Experience.js'
 import Projects from './components/Projects.js'
 import Connect from './components/Connect.js'
-import ScrollReveal from './components/ScrollReveal.js'
+import AIBot from './components/AIBot.js'
 
 const App = () => {
   return (
@@ -14,27 +14,19 @@ const App = () => {
         <TerminalHero />
         
         <section id="about" className='min-h-max pt-20'>
-          <ScrollReveal animation="slideUp">
-            <About />
-          </ScrollReveal>
+          <About />
         </section>
 
         <section id="experience" className='min-h-max pt-20'> 
-          <ScrollReveal animation="slideUp" delay={150}>
-            <Experience />
-          </ScrollReveal>
+          <Experience />
         </section>
         
         <section id="projects" className='min-h-max pt-20'>
-          <ScrollReveal animation="slideUp" delay={200}>
-            <Projects />
-          </ScrollReveal>
+          <Projects />
         </section>
         
         <section id="connect" className='min-h-min pt-20'>
-          <ScrollReveal animation="slideUp" delay={300}>
-            <Connect />
-          </ScrollReveal>
+          <Connect />
         </section>
         
         <footer className='flex justify-center items-center pb-7 text-white font-mono'>
